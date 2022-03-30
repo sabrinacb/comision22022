@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family:miFuente ;
+    src: url(../fuentes/Amaz400.ttf);
+    font-weight: 400;
+
+
+}
+
+
+
+@font-face {
+    font-family:miFuente ;
+    src: url(../fuentes/Amaz900.ttf);
+    font-weight: 900;
+  
+}
+
+
+@font-face {
+    font-family:miFuente2 ;
+    src: url(../fuentes/Amerika.ttf);
+ font-weight: 400;
+    
+  
+}
+
+
+
+
+body {
+
+font-family: miFuente;
+
+}
+
+h2{
+
+font-family: miFuente2;
+font-weight: 400;
+}
+
+
+h1{
+
+font-weight: 400;
+}
+
+
+p{
+font-weight: 900;
+
+
+}
