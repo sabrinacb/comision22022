@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400&family=Source+Serif+4:wght@800&display=swap');
+
+/*ejercicio para la próxima clase es modificar el link de la parte superior para que las tipos 
+mulish
+source serif sean utilizada como variables*/
+
+
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+p {
+    font-weight: 300
+}
+
+
+h1 {
+
+    font-family: 'Source Serif 4', serif;
+    font-weight: 800;
+ font-size:7em;
+ 
+ /*generar el valor en em de el idparrafo y de los p*/
+ /*119px;*/
+    /*16px es la medida base*/
+
+    /*px 
+    relativas , fija.
+
+    */
+
+}
+
+#parrafo {
+    font-weight: 400;
+    text-transform: uppercase;
+    /*transforma el texto en mayúscula*/
+  
+}
+
+/* se puede utilizar una sóla vez por html*/
