@@ -1,0 +1,22 @@
+@font-face {
+    font-family: miFuente;
+    src: url(../fuentes/fuente.ttf);
+  font-weight: 100 900;
+  /*estoy trayendo el hecho de que esta tipo , tiene el weight en 100 al 900*/
+
+  font-stretch: 500% 1000%;
+  /*me traigo todo el rango de width*/
+
+}
+
+h1 {
+
+font-family: miFuente;
+/*
+font-weight: 900;
+font-stretch: 800%;
+*/
+
+font-variation-settings: 'wdth' 500, 'wght' 100;
+
+}
